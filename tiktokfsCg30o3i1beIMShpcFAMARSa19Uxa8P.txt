@@ -1,1 +1,21 @@
-tiktok-developers-site-verification=fsCg30o3i1beIMShpcFAMARSa19Uxa8P
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>SocialPegliBot - Official Website</title>
+</head>
+<body>
+    <h1>SocialPegliBot</h1>
+    <p>Sito ufficiale per la gestione dell'applicazione SocialPegliBot.</p>
+    
+    <h3>Documentazione Legale:</h3>
+    <ul>
+        <li><a href="privacy.html">Informativa sulla Privacy</a></li>
+        <li><a href="termini.html">Termini di Servizio</a></li>
+    </ul>
+
+    <hr>
+    <h3>Verifica TikTok:</h3>
+    <code>tiktok-developers-site-verification=fsCg30o3i1beIMShpcFAMARSa19Uxa8P</code>
+</body>
+</html>
